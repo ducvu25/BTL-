@@ -1,0 +1,5 @@
+====================================== DANH SACH SINH VIEN =============================================
+
+MSV      Ho va Ten                 Ngay sinh        Gioi tinh       Diem       Hoc luc   
+2102     Nguyen Van B              2 /2 /2003       Nam             6.00       Trung binh
+2102     Nguyen Van X              2 /2 /2002       Nam             10.00      Gioi      
