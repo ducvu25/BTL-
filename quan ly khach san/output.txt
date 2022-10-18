@@ -1,0 +1,44 @@
+
+Thong tin phong: 001
+Tinh trang: Loai phong:Thuong
+Gia phong: 1000000
+
+Thong tin phong: 002
+Tinh trang: Loai phong:Binh dan
+Gia phong: 200000
+
+Thong tin phong: 003
+Tinh trang: Co nguoi thue
+Ngay dat: 10/8/2022
+So nguoi: 5
+Thong tin khach: 
+	Ten: Nguyen Thi B
+	SDT: 0987654
+	CMND: 1234678
+	Dia chi:Hai Phong
+Loai phong:Thuong
+Gia phong: 100000
+
+Thong tin phong: 004
+Tinh trang: Co nguoi thue
+Ngay dat: 15/12/2021
+So nguoi: 4
+Thong tin khach: 
+	Ten: Nguyen Ba C
+	SDT: 842342413
+	CMND: 12412412
+	Dia chi:Nam Dinh
+Loai phong:Trung
+Gia phong: 2000000
+
+Thong tin phong: 005
+Tinh trang: Loai phong:Cao cap
+Gia phong: 6000000
+
+Thong tin phong: 006
+Tinh trang: Loai phong:thuong dan
+Gia phong: 200000
+
+Thong tin phong: 002
+Tinh trang: Loai phong:vip
+Gia phong: 200000

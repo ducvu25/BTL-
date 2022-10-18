@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652730291 source:d:\nmlt\bai cua hien\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+
+1652815915 source:d:\c++\bai cua hien\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+
+1652815915 source:d:\nam 1\c++\btl\bai cua hien\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+

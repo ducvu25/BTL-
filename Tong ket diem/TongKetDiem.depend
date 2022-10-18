@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652798660 source:c:\yencn6\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+
+1652836527 source:d:\c++\yencn6\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+
+1652836527 source:d:\nam 1\c++\btl\yencn6\main.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+

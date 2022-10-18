@@ -1,0 +1,7 @@
+
+		DANH SACH
+Ma        Ho ten                        tuoi    Dia chi                  Tinh trang     Ngay mac       Phong     
+2         Lan                           28      Ha Noi                   F2             2/2/2022       403       
+1         duc                           28      Ha Noi                   F1             2/2/2022       402       
+3         Bac dau                       28      Ha Noi                   F1             2/2/2022       402       
+4         Nam tao                       28      Ha Noi                   F1             2/2/2022       404       

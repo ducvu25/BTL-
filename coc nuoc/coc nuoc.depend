@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661881289 source:d:\nam 1\c++\btl\coc nuoc\p1.cpp
+	<iostream>
+	"graphics.h"
+	"winbgim.h"
+	<mmsystem.h>
+	<cmath>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+
+			LIST PRODUCT 
+
+	STT   ID         Product's name       Price      Value     
+	1     111        Bim bim              5000       100       
+	2     112        keo mut              2000       1000      

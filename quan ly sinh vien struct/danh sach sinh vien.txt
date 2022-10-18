@@ -1,0 +1,6 @@
+
+			DANH SACH SINH VIEN
+MSV       Ho ten                   Ngay sinh    Lop       SDT            Toan    Ktmt    Anh     Trung binh          Hoc luc
+12345678  Vu Trung Duc             25/2 /2003   HEAD      0342041436     8.2     8.3     9.2     
+11111111  Tran To An               3 /1 /2003   HEAD      0963457429     7       9.2     10      
+22222222  Luu Tra My               1 /1 /2003   HEAF      0923525246     1       3       5       

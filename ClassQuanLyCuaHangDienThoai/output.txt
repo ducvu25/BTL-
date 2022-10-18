@@ -1,0 +1,12 @@
+
+		DANH SACH DIEN THOAI
+
+ID        Ten                 Thuong hieu    Gia       So luong  Do phan giai   Dung luong pin
+02        iphone 6s           iphone         6000000   50        1080HD         2000      
+03        nokia               nokia          1000000   100       480ph          1000      
+
+		DANH SACH PHU KIEN
+
+ID        Ten                 Thuong hieu    Gia       So luong  Loai      
+11        sac du phong samsungsamsung        200000    1000      fake
+     

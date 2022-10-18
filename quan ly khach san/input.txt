@@ -1,0 +1,32 @@
+5
+001
+1
+2/2/2022
+Nguyen Van A
+098765432
+12345678
+Ha Noi
+Cao cap
+002
+0
+Binh dan
+003
+1
+10/8/2022
+Nguyen Thi B
+0987654
+1234678
+Hai Phong
+Thuong
+004
+1
+15/12/2021
+Nguyen Ba C
+842342413
+12412412
+Nam Dinh
+Trung
+005
+0
+Cao cap
+
